@@ -1,4 +1,4 @@
-DS M3, Rita Rengel, Programação de Aplicativos.
+** Turma: DS M3, Rita Rengel, Programação de Aplicativos.**
 Lista de exercícios de Python para fixação.
 
 #Tecnologia #python
