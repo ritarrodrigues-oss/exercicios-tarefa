@@ -1,0 +1,7 @@
+# Peça o raio de um círculo e calcule a área. Use 3.14159 como valor de pi
+
+raio = float(input("Escreva o raio do círculo: "))
+pi = 3.14159
+area = pi * (raio ** 2)
+
+print(f"A área do círculo é {area:.2f}")
